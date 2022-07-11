@@ -2,4 +2,4 @@
 
 E-commerce web-site for a ZLATMAX company 
 
-LINK: aokhota.github.io/zlatmax/
+LINK: https://aokhota.github.io/Zlatmax-e-commerce/
